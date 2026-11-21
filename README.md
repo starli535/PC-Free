@@ -20,13 +20,13 @@ PC-Free is an open-source project that lets you run Windows 10 directly in your 
 
 ### Key Benefits
 
-- ✅ **100% Free** - No hidden costs or subscriptions
-- ✅ **Browser-Based** - Access Windows from any device
-- ✅ **5-Minute Setup** - Deploy Windows 10 in minutes
-- ✅ **No PC Required** - Run Windows without owning a Windows PC
-- ✅ **Docker Container** - Isolated, secure, and portable
-- ✅ **Persistent Data** - Your files and apps survive restarts
-- ✅ **Open Source** - MIT licensed, community-driven
+- ✅ **100% Free** - No hidden costs or subscriptions.
+- ✅ **Browser-Based** - Access Windows from any device.
+- ✅ **5-Minute Setup** - Deploy Windows 10 in minutes.
+- ✅ **No PC Required** - Run Windows without owning a Windows PC.
+- ✅ **Docker Container** - Isolated, secure, and portable.
+- ✅ **Persistent Data** - Your files and apps survive restarts.
+- ✅ **Open Source** - MIT licensed, community-driven.
 
 ---
 
